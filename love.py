@@ -1,7 +1,4 @@
- 
-
- #!usr/bin/python 
-
+ #! usr / bin / python 
  #Facebook Cracker Version 2.1 can crack into Facebook Database 100% without Interruption By Facebook Firewall ! 
 
  #This program is for educational purposes only. 
